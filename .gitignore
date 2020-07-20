@@ -1,0 +1,15 @@
+# softwares:
+software/
+
+# Data:
+Data/
+
+# Figures:
+Figures/
+
+# Methylation References
+Methylation_References_snaked/
+
+# references:
+references/
+
